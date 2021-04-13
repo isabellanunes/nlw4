@@ -24,7 +24,7 @@
 
 ## Project
 
-This is an API for registering users and surveys. It's possible to link a user to multiple surveys. Was used Etheral for faking the SMTP protocol and sending an e-mail with a survey for an registered user. This project was developed as part of the Node.js course at Next Level Week from  [Rocketseat](https://rocketseat.com.br/).
+This is an API for registering users and surveys. It's possible to link a user to multiple surveys. Was used Etheral for faking the SMTP protocol and sending an e-mail with a survey for an registered user. This project was developed as part of the Node.js track at Next Level Week 4 offered by [Rocketseat](https://rocketseat.com.br/).
 
 ## Status
 Done ✅
@@ -32,6 +32,7 @@ Done ✅
 ## Run
 
 For install all dependencies:
+
 ```
 yarn install
 ```
