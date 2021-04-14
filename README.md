@@ -18,19 +18,16 @@
 <br />
 
 ## Technologies
-
 - NodeJS 14.15.4
 - SQLite3
 
 ## Project
-
 This is an API for registering users and surveys. It's possible to link a user to multiple surveys. Was used Etheral for faking the SMTP protocol and sending an e-mail with a survey for an registered user. This project was developed as part of the Node.js track at Next Level Week 4 offered by [Rocketseat](https://rocketseat.com.br/).
 
 ## Status
 Done ✅
 
 ## Run
-
 For install all dependencies:
 
 ```
@@ -46,5 +43,4 @@ yarn start
 Lastly access [http://localhost:3333](http://localhost:3333).
 
 ## License
-
 This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
