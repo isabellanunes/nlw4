@@ -17,7 +17,7 @@
 
 <br />
 
-## Technologies
+## Technologies and requirements
 - NodeJS 14.15.4
 - SQLite3
 
@@ -28,7 +28,7 @@ This is an API for registering users and surveys. It's possible to link a user t
 Done ✅
 
 ## Run
-For install all dependencies:
+Install all dependencies:
 
 ```
 yarn install
